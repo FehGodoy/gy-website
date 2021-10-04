@@ -1,7 +1,5 @@
-#GY Website React JS
-
 <h1 align="center">Website GY</h1>
-## Descrição do Projeto
+
 <h1 align="center">
     <a href="https://gy-website.netlify.app/">🔗 GY Website</a>
 </h1>
