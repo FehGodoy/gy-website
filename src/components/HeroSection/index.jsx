@@ -14,7 +14,7 @@ export default function HeroSection() {
         <> 
         <Styled.HeroContainer>
             <Styled.HeroBg> 
-                <Styled.VideoBg autoPlay loop muted src={Video} type='video/mp4' />
+                <Styled.VideoBg src={Video} type='video/mp4' autoPlay loop muted />
             </Styled.HeroBg>
             <Styled.HeroContent>
                 <Styled.HeroH1>
