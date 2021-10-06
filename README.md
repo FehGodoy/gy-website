@@ -1,7 +1,7 @@
 <h1 align="center">Website GY</h1>
 
 <h1 align="center">
-    <a href="https://gy-website.netlify.app/">🔗 GY Website</a>
+    <a href="https://gy-website.netlify.app/" target="_blank">🔗 GY Website</a>
 </h1>
 <p align="center">🚀 Site de duas páginas (Home e Login) feito em React JS</p>
 
